@@ -1,0 +1,234 @@
+{"timestamp":"2025-08-06T16:52:28.488Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T16:52:28.492Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T16:52:28.492Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T16:52:28.491Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T16:52:28.494Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T16:52:28.495Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T16:52:28.495Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T16:52:28.496Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T16:52:28.497Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T16:52:28.498Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T16:52:28.499Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T16:52:28.500Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T16:52:28.500Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T16:52:28.501Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T16:52:28.502Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T16:52:28.502Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T16:52:28.537Z","level":"ERROR","message":"Error cleaning old logs:","data":{"errno":-2,"code":"ENOENT","syscall":"scandir","path":"./logs"}}
+{"timestamp":"2025-08-06T16:52:29.630Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T16:52:30.032Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T16:52:30.033Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T16:52:30.033Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T16:53:01.119Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T16:53:01.120Z","level":"ERROR","message":"Error in dk command:","data":{}}
+{"timestamp":"2025-08-06T16:53:06.215Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T16:53:29.955Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T16:53:29.958Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T16:53:29.959Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T16:53:29.960Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T16:53:29.962Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T16:53:29.964Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T16:53:29.965Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T16:53:29.963Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T16:53:29.967Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T16:53:29.967Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T16:53:29.969Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T16:53:29.969Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T16:53:29.970Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T16:53:29.972Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T16:53:29.972Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T16:53:29.973Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T16:53:31.195Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T16:53:31.279Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T16:53:31.279Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T16:53:31.279Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T16:53:34.999Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T16:53:35.000Z","level":"ERROR","message":"Error in dk command:","data":{}}
+{"timestamp":"2025-08-06T16:53:44.862Z","level":"INFO","message":"👤 khanhdz used command: tuluyen","data":null}
+{"timestamp":"2025-08-06T16:53:44.864Z","level":"INFO","message":"📊 Đã tải 0 người chơi từ file","data":null}
+{"timestamp":"2025-08-06T16:53:44.864Z","level":"INFO","message":"✅ Hệ thống người chơi đã được khởi tạo","data":null}
+{"timestamp":"2025-08-06T16:53:44.865Z","level":"INFO","message":"👤 Tạo người chơi mới: khanhdz (694925660640116776)","data":null}
+{"timestamp":"2025-08-06T16:53:45.372Z","level":"INFO","message":"Cultivation: menu_viewed","data":{"userId":"694925660640116776","realm":0,"sessionsToday":0,"isCurrentlyCultivating":false}}
+{"timestamp":"2025-08-06T16:54:21.255Z","level":"INFO","message":"👤 khanhdz used command: admin","data":null}
+{"timestamp":"2025-08-06T16:54:27.300Z","level":"INFO","message":"👤 khanhdz used command: admin","data":null}
+{"timestamp":"2025-08-06T16:54:27.301Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T16:54:39.608Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T16:54:46.201Z","level":"INFO","message":"👤 khanhdz used command: bxh","data":null}
+{"timestamp":"2025-08-06T16:54:46.202Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T16:54:59.437Z","level":"INFO","message":"👤 khanhdz used command: shop","data":null}
+{"timestamp":"2025-08-06T16:54:59.438Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T16:55:01.128Z","level":"INFO","message":"👤 khanhdz used command: kho","data":null}
+{"timestamp":"2025-08-06T16:55:01.129Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T16:55:08.301Z","level":"INFO","message":"👤 khanhdz used command: dotpha","data":null}
+{"timestamp":"2025-08-06T16:55:08.908Z","level":"INFO","message":"Cultivation: breakthrough_menu_viewed","data":{"userId":"694925660640116776","currentRealm":0,"canBreakthrough":true}}
+{"timestamp":"2025-08-06T16:55:11.781Z","level":"INFO","message":"👤 khanhdz used command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T16:55:11.782Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T16:55:21.492Z","level":"INFO","message":"👤 khanhdz used command: boss","data":null}
+{"timestamp":"2025-08-06T16:55:21.493Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T16:57:14.289Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T16:57:14.293Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T16:57:14.294Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T16:57:14.295Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T16:57:14.297Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T16:57:14.298Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T16:57:14.299Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T16:57:14.300Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T16:57:14.302Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T16:57:14.302Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T16:57:14.304Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T16:57:14.305Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T16:57:14.306Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T16:57:14.307Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T16:57:14.308Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-06T16:57:14.309Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T16:57:14.310Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T16:57:15.474Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T16:57:15.508Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T16:57:15.509Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T16:57:15.509Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T16:57:20.666Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T16:57:20.666Z","level":"ERROR","message":"Error in dk command:","data":{}}
+{"timestamp":"2025-08-06T16:58:52.688Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T16:58:54.307Z","level":"INFO","message":"Button interaction: contact_support by khanhdz","data":null}
+{"timestamp":"2025-08-06T16:58:56.358Z","level":"INFO","message":"Button interaction: beginner_guide by khanhdz","data":null}
+{"timestamp":"2025-08-06T16:58:58.009Z","level":"INFO","message":"Button interaction: advanced_guide by khanhdz","data":null}
+{"timestamp":"2025-08-06T16:59:27.359Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T16:59:27.363Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T16:59:27.365Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T16:59:27.366Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T16:59:27.368Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T16:59:27.369Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T16:59:27.371Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T16:59:27.374Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T16:59:27.376Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T16:59:27.376Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T16:59:27.378Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T16:59:27.379Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T16:59:27.381Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T16:59:27.383Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T16:59:27.384Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-06T16:59:27.386Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T16:59:27.387Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T16:59:28.642Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T16:59:28.793Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T16:59:28.793Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T16:59:28.793Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T16:59:30.481Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T16:59:30.481Z","level":"ERROR","message":"Error in dk command:","data":{}}
+{"timestamp":"2025-08-06T16:59:34.893Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T17:00:41.138Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T17:00:41.142Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T17:00:41.143Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T17:00:41.144Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T17:00:41.146Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T17:00:41.147Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T17:00:41.148Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T17:00:41.149Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T17:00:41.151Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T17:00:41.151Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T17:00:41.153Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T17:00:41.153Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T17:00:41.154Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T17:00:41.156Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T17:00:41.157Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-06T17:00:41.157Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T17:00:41.158Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T17:00:44.184Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T17:00:44.276Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T17:00:44.277Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T17:00:44.277Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T17:00:55.344Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T17:00:55.346Z","level":"INFO","message":"📊 Đã tải 1 người chơi từ file","data":null}
+{"timestamp":"2025-08-06T17:00:55.346Z","level":"INFO","message":"✅ Hệ thống người chơi đã được khởi tạo","data":null}
+{"timestamp":"2025-08-06T17:00:59.886Z","level":"INFO","message":"New player registered: khanhdz (694925660640116776)","data":null}
+{"timestamp":"2025-08-06T17:01:09.295Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T17:01:39.947Z","level":"INFO","message":"👤 khanhdz used command: tuluyen","data":null}
+{"timestamp":"2025-08-06T17:01:40.585Z","level":"INFO","message":"Cultivation: menu_viewed","data":{"userId":"694925660640116776","realm":0,"sessionsToday":0,"isCurrentlyCultivating":false}}
+{"timestamp":"2025-08-06T17:01:52.890Z","level":"INFO","message":"👤 khanhdz used command: dotpha","data":null}
+{"timestamp":"2025-08-06T17:01:53.420Z","level":"INFO","message":"Cultivation: breakthrough_menu_viewed","data":{"userId":"694925660640116776","currentRealm":0,"canBreakthrough":true}}
+{"timestamp":"2025-08-06T17:02:16.783Z","level":"INFO","message":"👤 khanhdz used command: shop","data":null}
+{"timestamp":"2025-08-06T17:02:16.785Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:02:55.643Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T17:03:01.474Z","level":"INFO","message":"👤 khanhdz used command: kho","data":null}
+{"timestamp":"2025-08-06T17:03:01.475Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:03:15.420Z","level":"INFO","message":"👤 khanhdz used command: bxh","data":null}
+{"timestamp":"2025-08-06T17:03:15.421Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:03:39.412Z","level":"INFO","message":"👤 khanhdz used command: boss","data":null}
+{"timestamp":"2025-08-06T17:03:39.413Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:03:52.101Z","level":"INFO","message":"👤 khanhdz used command: admin","data":null}
+{"timestamp":"2025-08-06T17:03:55.331Z","level":"INFO","message":"👤 khanhdz used command: admin","data":null}
+{"timestamp":"2025-08-06T17:03:55.331Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:04:40.555Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T17:17:05.651Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T17:17:05.657Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T17:17:05.659Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T17:17:05.661Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T17:17:05.663Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T17:17:05.664Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T17:17:05.666Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T17:17:05.667Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T17:17:05.670Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T17:17:05.670Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T17:17:05.672Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T17:17:05.673Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T17:17:05.675Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T17:17:05.677Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T17:17:05.679Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-06T17:17:05.680Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T17:17:05.681Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T17:17:07.113Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T17:17:07.128Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T17:17:07.128Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T17:17:07.129Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T17:17:13.921Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T17:17:13.931Z","level":"INFO","message":"📊 Đã tải 1 người chơi từ file","data":null}
+{"timestamp":"2025-08-06T17:17:13.931Z","level":"INFO","message":"✅ Hệ thống người chơi đã được khởi tạo","data":null}
+{"timestamp":"2025-08-06T17:17:16.050Z","level":"INFO","message":"New player registered: khanhdz (694925660640116776)","data":null}
+{"timestamp":"2025-08-06T17:17:19.503Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T17:17:22.568Z","level":"INFO","message":"New player registered: khanhdz (694925660640116776)","data":null}
+{"timestamp":"2025-08-06T17:17:51.704Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T17:18:11.669Z","level":"INFO","message":"👤 khanhdz used command: kho","data":null}
+{"timestamp":"2025-08-06T17:18:11.670Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:18:19.953Z","level":"INFO","message":"👤 khanhdz used command: shop","data":null}
+{"timestamp":"2025-08-06T17:18:19.954Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:18:24.028Z","level":"INFO","message":"👤 khanhdz used command: boss","data":null}
+{"timestamp":"2025-08-06T17:18:24.029Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:18:25.781Z","level":"INFO","message":"👤 khanhdz used command: pvp","data":null}
+{"timestamp":"2025-08-06T17:18:25.781Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:18:27.962Z","level":"INFO","message":"👤 khanhdz used command: dotpha","data":null}
+{"timestamp":"2025-08-06T17:18:28.457Z","level":"INFO","message":"Cultivation: breakthrough_menu_viewed","data":{"userId":"694925660640116776","currentRealm":0,"canBreakthrough":true}}
+{"timestamp":"2025-08-06T17:19:03.592Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-06T17:19:03.596Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-06T17:19:03.597Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-06T17:19:03.598Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-06T17:19:03.600Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-06T17:19:03.601Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-06T17:19:03.602Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-06T17:19:03.603Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-06T17:19:03.604Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-06T17:19:03.605Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-06T17:19:03.607Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-06T17:19:03.607Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-06T17:19:03.608Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-06T17:19:03.631Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-06T17:19:03.632Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-06T17:19:03.633Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-06T17:19:03.634Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-06T17:19:04.973Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-06T17:19:05.075Z","level":"INFO","message":"🤖 Tu Tiên Bot đã sẵn sàng! Đăng nhập với tên: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-06T17:19:05.076Z","level":"INFO","message":"📊 Bot đang phục vụ 1 servers","data":null}
+{"timestamp":"2025-08-06T17:19:05.076Z","level":"INFO","message":"👥 Tổng cộng 3 users","data":null}
+{"timestamp":"2025-08-06T17:19:06.700Z","level":"INFO","message":"👤 khanhdz used command: dk","data":null}
+{"timestamp":"2025-08-06T17:19:06.702Z","level":"INFO","message":"📊 Đã tải 1 người chơi từ file","data":null}
+{"timestamp":"2025-08-06T17:19:06.702Z","level":"INFO","message":"✅ Hệ thống người chơi đã được khởi tạo","data":null}
+{"timestamp":"2025-08-06T17:19:06.702Z","level":"INFO","message":"User khanhdz (694925660640116776) tried to register but already has account","data":null}
+{"timestamp":"2025-08-06T17:19:06.726Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:19:26.279Z","level":"INFO","message":"👤 khanhdz used command: admin","data":null}
+{"timestamp":"2025-08-06T17:19:29.847Z","level":"ERROR","message":"Error in button interaction:","data":{}}
+{"timestamp":"2025-08-06T17:19:31.808Z","level":"ERROR","message":"Error creating backup:","data":{}}
+{"timestamp":"2025-08-06T17:19:34.565Z","level":"ERROR","message":"Error during maintenance:","data":{}}
+{"timestamp":"2025-08-06T17:19:41.517Z","level":"INFO","message":"👤 khanhdz used command: admin","data":null}
+{"timestamp":"2025-08-06T17:19:41.518Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
+{"timestamp":"2025-08-06T17:19:52.471Z","level":"INFO","message":"👤 khanhdz used command: hotro","data":null}
+{"timestamp":"2025-08-06T17:20:00.200Z","level":"INFO","message":"👤 khanhdz used command: bxh","data":null}
+{"timestamp":"2025-08-06T17:20:00.201Z","level":"ERROR","message":"Unhandled promise rejection:","data":{}}
